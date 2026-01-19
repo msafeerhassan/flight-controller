@@ -1,2 +1,2 @@
-# flight-controller
-A cool flight controller for both rockets and drones
+# Custom Flight Controller
+## A completely custom high-efficiency Flight Controller for Drone.
