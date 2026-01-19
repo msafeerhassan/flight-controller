@@ -3,11 +3,17 @@
 This flight controller is based on STM32F722RET6 MCU and BMI270 Gyro. This is optimized for modern FPV Drones featuring a 4 layer PCB and a dedicated 8-Pin connecter for modern ESC's.
 
 ### Hardware Specifications
+
 MCU: STM32F722RET6
+
 Gyro: BMI270 via Serial Peripheral Interface
+
 Storage: W25NO1G
+
 Input Voltage: 3S-6S LiPo (integrated 5V/2A Regulator)
+
 OSD: AT7456E
+
 Features: Buzzer for emergency situation, USB-C Programming, Suitable capacitors, diodes, inductors and resistors
 
 ### ESC Connection Guide
